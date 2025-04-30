@@ -1,8 +1,4 @@
-
 VAR
-
-END_VAR
-
-VAR CONSTANT
-
+	WorldHello : BOOL;
+	HelloWorld : BOOL;
 END_VAR
